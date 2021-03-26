@@ -1,11 +1,11 @@
 {
 	"user":{
-		"username":"Steve",
+		"username":"AFKBot",
 		"pass":""
 	},
 
 	"server":{
-		"address":"127.0.0.1",
+		"address":"Hermitjaymz.aternos.me",
 		"port":25565
 	},
 
